@@ -43,6 +43,16 @@ The dashboard demonstrates how Business Intelligence tools such as Power BI can 
 
 ---
 
+## Disclaimer
+
+This project was developed as a personal learning project to strengthen my skills in Power BI, data visualization and business intelligence.
+
+The dashboard is based on a fictional coffee sales dataset obtained from Kaggle. The dataset was created for educational purposes and does not contain real business or customer information.
+
+The purpose of this project is to demonstrate my ability to transform raw data into interactive dashboards that support data driven decision making.
+
+---
+
 ## Files
 
 **PowerBI → cofee_sales_dashboard_trond.pbix
